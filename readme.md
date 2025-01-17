@@ -13,6 +13,5 @@ Sources:
 * https://en.wikipedia.org/wiki/Albert_Einstein_in_popular_culture 
 * https://en.wikipedia.org/wiki/Apollo_11 
 * https://en.wikipedia.org/wiki/Hair_Like_Mine 
-* https://en.wikipedia.org/wiki/Pillars_of_Creation 
 * https://en.wikipedia.org/wiki/Raising_the_Flag_on_Iwo_Jima 
 * https://en.wikipedia.org/wiki/The_Blue_Marble
