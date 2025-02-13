@@ -1,0 +1,9 @@
+Here are some hints if you're struggling to solve the image edits:
+
+1. Tetons: Try increasing the contrast by a factor of x8 and subtracting off a corresponding amount of brightness.
+2. Einstein: Try flipping the image.
+3. Astronauts: Try making the image negative, i.e. contrast of -1 and brightness of 256
+4. Obama: Try messing with the order of the color channels.
+5. Flag: Try selecting rectangular regions and copying them to the correct places in the new image.
+6. Earth: This is tricky! I constructed this image by shifting the location of each pixel in each dimension by a fixed amount, mod the size of the image.
+7. Highway: This one is also tricky! Try decreasing the value of the blue and red color channels and take the result mod 256 instead of using saturate_cast.
